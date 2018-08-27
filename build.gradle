@@ -1,0 +1,57 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.0'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 24
+        versionCode 17
+        versionName "0.1.2.1"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:appcompat-v7:24.0.0'
+    compile files('libs/eko_native.jar')
+}
+
+task deleteJar(type: Delete) {
+    delete 'export/eko_lib.jar'
+}
+
+task createJar(type: Copy) {
+    from('build/intermediates/bundles/default/')
+    into('export/')
+    include('classes.jar')
+    rename('classes.jar', 'eko_lib_' + android.defaultConfig.versionName + '.jar')
+}
+
+createJar {}.dependsOn(deleteJar, build)

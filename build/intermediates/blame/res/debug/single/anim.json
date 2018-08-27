@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/mrunalbhatt/Documents/Android-Bluetooth-Library-Example-EkoAndroidSDK_1.2.1_RELEASE/eko_lib_0.1.2.1_/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/mrunalbhatt/.android/build-cache/6590f7f614fab4e69ab3565659e8307c056f7353/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/mrunalbhatt/Documents/Android-Bluetooth-Library-Example-EkoAndroidSDK_1.2.1_RELEASE/eko_lib_0.1.2.1_/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mrunalbhatt/.android/build-cache/6590f7f614fab4e69ab3565659e8307c056f7353/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/mrunalbhatt/Documents/Android-Bluetooth-Library-Example-EkoAndroidSDK_1.2.1_RELEASE/eko_lib_0.1.2.1_/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mrunalbhatt/.android/build-cache/6590f7f614fab4e69ab3565659e8307c056f7353/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mrunalbhatt/Documents/Android-Bluetooth-Library-Example-EkoAndroidSDK_1.2.1_RELEASE/eko_lib_0.1.2.1_/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/mrunalbhatt/.android/build-cache/6590f7f614fab4e69ab3565659e8307c056f7353/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mrunalbhatt/Documents/Android-Bluetooth-Library-Example-EkoAndroidSDK_1.2.1_RELEASE/eko_lib_0.1.2.1_/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/mrunalbhatt/.android/build-cache/6590f7f614fab4e69ab3565659e8307c056f7353/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/mrunalbhatt/Documents/Android-Bluetooth-Library-Example-EkoAndroidSDK_1.2.1_RELEASE/eko_lib_0.1.2.1_/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mrunalbhatt/.android/build-cache/6590f7f614fab4e69ab3565659e8307c056f7353/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mrunalbhatt/Documents/Android-Bluetooth-Library-Example-EkoAndroidSDK_1.2.1_RELEASE/eko_lib_0.1.2.1_/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/mrunalbhatt/.android/build-cache/6590f7f614fab4e69ab3565659e8307c056f7353/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mrunalbhatt/Documents/Android-Bluetooth-Library-Example-EkoAndroidSDK_1.2.1_RELEASE/eko_lib_0.1.2.1_/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/mrunalbhatt/.android/build-cache/6590f7f614fab4e69ab3565659e8307c056f7353/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/mrunalbhatt/Documents/Android-Bluetooth-Library-Example-EkoAndroidSDK_1.2.1_RELEASE/eko_lib_0.1.2.1_/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/mrunalbhatt/.android/build-cache/6590f7f614fab4e69ab3565659e8307c056f7353/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/mrunalbhatt/Documents/Android-Bluetooth-Library-Example-EkoAndroidSDK_1.2.1_RELEASE/eko_lib_0.1.2.1_/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mrunalbhatt/.android/build-cache/6590f7f614fab4e69ab3565659e8307c056f7353/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

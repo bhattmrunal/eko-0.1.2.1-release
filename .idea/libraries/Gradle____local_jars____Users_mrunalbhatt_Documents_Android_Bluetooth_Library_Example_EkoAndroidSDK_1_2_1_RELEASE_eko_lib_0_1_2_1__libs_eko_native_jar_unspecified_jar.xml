@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:/Users/mrunalbhatt/Documents/Android-Bluetooth-Library-Example-EkoAndroidSDK_1.2.1_RELEASE/eko_lib_0.1.2.1_/libs/eko_native.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/eko_native.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
